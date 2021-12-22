@@ -12,10 +12,10 @@
 <h2 <b> About Me:</b></h2>
 
 <p align="left"> 
-- 🏫 Student at CSU Chico.<br>
+- 🏫 Student at Butte College.<br>
 - 💻 Major is Computer Science.<br>
-- 🌱 I'm currently learning ReactJs and NodeJS.<br> 
-- 📧 My email is tgoates@mail.csuchico.edu.
+- 🌱 I'm currently learning C++, HTML and CSS.<br> 
+- 📧 My email is roates002@student.butte.edu.
 <br>
 <br>
 <h2 <b> Languages and Tools: </b><br></h2>
