@@ -12,7 +12,7 @@
 <h2 <b> About Me:</b></h2>
 
 <p align="left"> 
-- 🏫 Student at Butte College.<br>
+- 🏫 Student at Chico State University.<br>
 - 💻 Major is Computer Science.<br>
 - 🌱 I'm currently learning C++, HTML and CSS.<br> 
 - 📧 My email is roates002@student.butte.edu.
