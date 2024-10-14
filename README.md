@@ -14,7 +14,7 @@
 <p align="left"> 
 - 🏫 Student at Chico State University.<br>
 - 💻 Major is Computer Science.<br>
-- 🌱 I'm currently learning C++, HTML and CSS.<br> 
+- 🌱 I'm currently learning C++ and Python.<br> 
 <br>
 <br>
 <h2 <b> Languages and Tools: </b><br></h2>
