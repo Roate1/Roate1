@@ -15,7 +15,6 @@
 - 🏫 Student at Chico State University.<br>
 - 💻 Major is Computer Science.<br>
 - 🌱 I'm currently learning C++, HTML and CSS.<br> 
-- 📧 My email is rjoates@csuchico.edu.
 <br>
 <br>
 <h2 <b> Languages and Tools: </b><br></h2>
